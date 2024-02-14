@@ -3,7 +3,12 @@
 -->
 <p align="center">
   <img  src="wizard.jpg">
+  <br />
+  <br />
+  <br />
+  <i>🔭 Currently working on <a href="https://github.com/marekprochazka/v-cms">V-CMS</a> (&& my CS degree... && actual work stuff)</i>
 </p>
+
 
 
 <!--
@@ -11,7 +16,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
