@@ -1,4 +1,10 @@
+<!--
 ### Hi there 👋
+-->
+<p align="center">
+  <img  src="wizard.jpg">
+</p>
+
 
 <!--
 **marekprochazka/marekprochazka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
