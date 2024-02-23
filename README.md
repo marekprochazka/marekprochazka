@@ -6,7 +6,7 @@
   <br />
   <br />
   <br />
-  <i>🔭 Currently working on <a href="https://github.com/marekprochazka/v-cms">V-CMS</a> (&& my CS degree... && actual work stuff)</i>
+  <i>🔭 Currently working on a private nuxt app (&& my CS degree... && actual work stuff)</i>
 </p>
 
 
