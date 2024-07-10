@@ -6,7 +6,9 @@
   <br />
   <br />
   <br />
+  <!--
   <i>🔭 Currently working on a private nuxt app (&& my CS degree... && actual work stuff)</i>
+  -->
 </p>
 
 
